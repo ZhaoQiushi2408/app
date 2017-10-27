@@ -1,0 +1,8 @@
+---
+applications:
+- name: demo-20171026
+  path: target/demo-20171026-0.0.1-SNAPSHOT.jar
+  
+  services:
+  - myservice
+
