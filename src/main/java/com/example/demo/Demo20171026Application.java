@@ -12,7 +12,7 @@ public class Demo20171026Application {
 	
 	@RequestMapping("/")
 	public String hello() {
-		return "sdfjsaoejanfoad";
+		return "s-----Jenkins";
 	}
 
 
